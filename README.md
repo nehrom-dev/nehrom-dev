@@ -3,3 +3,5 @@
 I have been programming for 4 years. I started with Python, but have really found a passion for front-end development.
 
 * 🌍  I'm based in Ukraine, Zaporozhye.
+
+<p style="font-family:verdana">This is a paragraph.</p>

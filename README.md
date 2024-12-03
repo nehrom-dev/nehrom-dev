@@ -5,7 +5,7 @@ I have been programming for 4 years. I started with Python, but have really foun
 * 🌍  I'm based in Ukraine, Zaporozhye.
 ## My socials
 [![Static Badge](https://img.shields.io/badge/StackOverflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/28614486/nehrom-k)
-[![Static Badge](https://img.shields.io/badge/SoundCloud-orange?style=flat-square&logo=soundcloud&logoColor=white&labelColor=grey&)](https://on.soundcloud.com/HNtq1bAPYWzvX28H9)
+[![Static Badge](https://img.shields.io/badge/SoundCloud-black?style=flat-square&logo=soundcloud)](https://on.soundcloud.com/HNtq1bAPYWzvX28H9)
 
 ## I'm currently learning / improving on
 <p align="left">

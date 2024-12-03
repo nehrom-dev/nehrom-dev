@@ -18,4 +18,17 @@ I have been programming for 4 years. I started with Python, but have really foun
 ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vuedotjs)
 ![Static Badge](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Static Badge](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/Sass-black?style=flat-square&logo=sass)
+![Static Badge](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=webpack)
+![Static Badge](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices)
+![Static Badge](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/Java-black?style=flat-square)
+![Static Badge](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/Mongoose-black?style=flat-square&logo=mongoose)
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-black?style=flat-square&logo=mongoose&logoColor=kalilinux)
+![Static Badge](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+
+
+
 

@@ -6,6 +6,7 @@ I have been programming for 4 years. I started with Python, but have really foun
 ## My socials
 ![Static Badge](https://img.shields.io/badge/StackOverflow-gray?style=flat-square&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F28614486%2Fnehrom-k)
 ![Static Badge](https://img.shields.io/badge/SoundCloud-orange?style=flat-square&logo=soundcloud&logoColor=white&labelColor=grey&link=https%3A%2F%2Fon.soundcloud.com%2FyuD86Ltk28Wq5KRBA)
+<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-gray?style=flat-square&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F28614486%2Fnehrom-k">
 
 ## I'm currently learning / improving on
 <p align="left">

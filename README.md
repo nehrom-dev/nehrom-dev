@@ -1,3 +1,4 @@
+![8ae104a88d8fd8e5c4d1a9cbea4d4c96](https://github.com/user-attachments/assets/aa2c45ed-aee5-4a36-b5ae-9de9d9f0da92)
 # Hi, I'm Kirill! 👋
 ### I 💗 Backend development!
 I've been programming for 5 years. I started with Python, but have really found a passion for Backend development.

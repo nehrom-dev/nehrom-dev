@@ -1,6 +1,6 @@
 # Hi, I'm Kirill! 👋
 ### I 💗 Backend development!
-I have been programming for 4 years. I started with Python, but have really found a passion for Backend development.
+I have been programming for 5 years. I started with Python, but have really found a passion for Backend development.
 * 🌍  I'm based in Ukraine, Zaporozhye.
 
 ## 🤳 My socials
@@ -15,6 +15,7 @@ I have been programming for 4 years. I started with Python, but have really foun
 ![Static Badge](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![Static Badge](https://img.shields.io/badge/Java-black?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)

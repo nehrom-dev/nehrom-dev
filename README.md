@@ -9,6 +9,8 @@ I have been programming for 4 years. I started with Python, but have really foun
 [![Static Badge](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/NehroMK/)
 [![Static Badge](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://www.youtube.com/@nehrom.k)
 [![Static Badge](https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok)](https://www.tiktok.com/@nehrom.k)
+[![Static Badge](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=reddit)](https://www.reddit.com/user/Slow_Research_8636/)
+
 
 ## I'm currently learning / improving on
 <p align="left">

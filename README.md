@@ -8,8 +8,7 @@ I have been programming for 4 years. I started with Python, but have really foun
 [![Static Badge](https://img.shields.io/badge/SoundCloud-black?style=flat-square&logo=soundcloud)](https://on.soundcloud.com/HNtq1bAPYWzvX28H9)
 [![Static Badge](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/NehroMK/)
 [![Static Badge](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](https://www.youtube.com/@nehrom.k)
-
-
+[![Static Badge](https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok)](https://www.tiktok.com/@nehrom.k)
 
 ## I'm currently learning / improving on
 <p align="left">

@@ -12,4 +12,10 @@ I have been programming for 4 years. I started with Python, but have really foun
 [![Static Badge](https://img.shields.io/badge/Reddit-black?style=flat-square&logo=reddit)](https://www.reddit.com/user/Slow_Research_8636/)
 
 ## 🛠️ My Teck Stack
+![Static Badge](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![Static Badge](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Static Badge](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vuedotjs)
+![Static Badge](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 

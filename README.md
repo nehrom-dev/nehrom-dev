@@ -4,4 +4,4 @@ I have been programming for 4 years. I started with Python, but have really foun
 
 * 🌍  I'm based in Ukraine, Zaporozhye.
 
-<p style="font-family:verdana">This is a paragraph.</p>
+<p style="font-family:Times New Roman">This is a paragraph.</p>

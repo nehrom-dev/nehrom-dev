@@ -2,7 +2,7 @@
 # Hi, I'm Kirill! 👋
 
 ### I 💗 Backend development!
-I've been programming for 5 years. I started with Python, but have really found a passion for Backend development.
+I started programming with HTML, but have really found a passion for Backend development.
 * 🌍  I'm based in Ukraine, Zaporozhye.
 
 ## 🤳 My socials

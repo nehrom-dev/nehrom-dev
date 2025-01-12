@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Kirill from Ukraine<br><br>- 🔭 I’m working as secret project<br>- 📚 I'm currently learning Rust, Ruby<br>- ⚡In my free time I playing the guitar</p>
+<p align="left">I'm Kirill from Ukraine<br><br>- 🔭 I’m working as secret project<br>- 📚 I'm currently learning Rust<br>- ⚡In my free time I playing the guitar</p>
 
 ###
 

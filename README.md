@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img height="370" src="head.jpg"  />
+  <img height="400" width="1080" src="head3.jpg"  />
 </div>
 
 ###

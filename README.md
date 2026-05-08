@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Kirill from Ukraine 🇺🇦<br><br>- 🎯 I’m working on building secure and reliable products<br>- ✨ I'm currently learning cybersecurity and secure software architecture<br>- 🦠 In my free time I explore vulnerabilities, automate security workflows, and sharpen my problem-solving skills</p>
+<p align="left">I'm Kirill from Ukraine 🇺🇦<br><br>- 🎯 I’m working on building Majestic RP API<br>- ✨ I'm currently learning cybersecurity and secure software architecture<br>- 🦠 In my free time I explore vulnerabilities, automate security workflows</p>
 
 ###
 

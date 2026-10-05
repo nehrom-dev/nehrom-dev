@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Kirill from Ukraine 🇺🇦<br><br>- 🎯 I’m a Robotics Software Developer specializing in archaeological research and robotic field exploration.<br>- ✨ I'm currently learning cybersecurity and secure software architecture<br>- 🦠 In my free time I explore vulnerabilities, automate security workflows</p>
+<p align="left">I'm Kirill from Ukraine 🇺🇦<br><br>- ✨ I’m a Robotics Software Developer specializing in archaeological research and robotic field exploration.<br>- 🎯 I'm currently learning cybersecurity and secure software architecture<br>- 🦠 In my free time I explore vulnerabilities, automate security workflows</p>
 
 ###
 
